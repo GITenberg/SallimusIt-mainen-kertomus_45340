@@ -26,6 +26,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Voltaire
     - http://en.wikipedia.org/wiki/Voltaire
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45340#SallimusIt-mainen-kertomus
 gutenberg_issued: '2014-04-07'
 gutenberg_type: Text
 identifiers:
