@@ -1,0 +1,43 @@
+_repo: SallimusIt-mainen-kertomus_45340
+_version: 0.1.0
+alternative_title: Zadig, ou la destinée. Finnish
+contributor:
+  translator:
+    agent_name: Kallio, O. A. (Oskar Albin)
+    alias: Kallio, Oskar Albin
+    birthdate: 1874
+    deathdate: 1940
+    gutenberg_agent_id: '43228'
+    url: http://www.gutenberg.org/2009/agents/43228
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Voltaire
+    aliases:
+    - Arouet, Francois Marie
+    - Arouet, François Marie
+    birthdate: 1694
+    deathdate: 1778
+    gutenberg_agent_id: '913'
+    url: http://www.gutenberg.org/2009/agents/913
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Voltaire
+    - http://en.wikipedia.org/wiki/Voltaire
+description: ''
+gutenberg_issued: '2014-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45340'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French literature -- 18th century'
+- !lcc 'PQ'
+- !lcsh 'Political fiction, French'
+- !lcsh 'Manners and customs -- Fiction'
+title: 'Sallimus: Itämainen kertomus'
+url: http://www.gutenberg.org/ebooks/45340
